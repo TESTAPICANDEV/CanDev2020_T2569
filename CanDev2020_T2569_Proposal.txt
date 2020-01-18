@@ -1,0 +1,3 @@
+
+
+We understand that jobs are described as a set of tasks to be preformed.  Our goal is to describe these tasks as a set of qualifications.  We have identified key skills required to preform a task.  We need to convert
