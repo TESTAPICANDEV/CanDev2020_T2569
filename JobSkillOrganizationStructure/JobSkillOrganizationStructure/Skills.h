@@ -7,6 +7,8 @@ class Qualifications;
 
 class Skills
 {
+	//release should use std::map containers
+
 	std::string m_name;
 	int m_YearsofEducation;
 	//std::map<std::string name, int a> m_map;

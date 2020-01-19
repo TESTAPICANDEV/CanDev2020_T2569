@@ -5,6 +5,7 @@ class Skill;
 
 class Task
 {
+	//release should use std::map containers
 	std::vector<Skill*> m_skills;
 public:
 	Task();
