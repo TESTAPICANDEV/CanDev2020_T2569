@@ -7,18 +7,25 @@ We have identified key skills required to be prficient at a specific task.
 We intend to build a data management system which can stream line the hiring process.
 This also means that future hiring can use the information to better inform their decision making.
 The goal is to keep job descriptions classified in terms of task, skills, and qualification.
-This way, future policing challenges can refference specific common tasks to dynamically populate a list of job requirements.
+This way, future policing challenges can reference specific common tasks to dynamically populate a list of job requirements.
 
 
 || Internal Screening ||
-Spectral Analisis can be conducted internallly to highlight how the most successful convictions were conducted.
-Identifying key success, chalenges and areas for improvement.
+Spectral Analysis can be conducted internally to highlight how the most successful convictions were conducted.
+Identifying key success, challenges and areas of potential improvement.
 The goal to identify key strengths of a department and area of potential improvement.
 
 
-|| Foreign Federal Police ||
+|| Inspiration ||
 The F.B.I describes a nine step process for placing special agent in their agency.
-This method is affective in systematically  
+This method is affective at systematically disqualifying unimpressive applicants.
+
+Verbal problems produced from past convictions can be used to test applicants judgement.
+VR simulations can also used to evaluate an applicant's judgement and mental proficiency/aptitude.
+
+
+
+
 
 
 
