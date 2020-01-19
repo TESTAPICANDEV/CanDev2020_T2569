@@ -1,3 +1,25 @@
 
+|| RCMP Systemic Recruitment Strategy ||
 
-We understand that jobs are described as a set of tasks to be preformed.  Our goal is to describe these tasks as a set of qualifications.  We have identified key skills required to preform a task.  We need to convert
+We understand that jobs are described as a set of tasks to be preformed.  
+Our goal is to describe these tasks as a set of qualifications.  
+We have identified key skills required to be prficient at a specific task. 
+We intend to build a data management system which can stream line the hiring process.
+This also means that future hiring can use the information to better inform their decision making.
+The goal is to keep job descriptions classified in terms of task, skills, and qualification.
+This way, future policing challenges can refference specific common tasks to dynamically populate a list of job requirements.
+
+
+|| Internal Screening ||
+Spectral Analisis can be conducted internallly to highlight how the most successful convictions were conducted.
+Identifying key success, chalenges and areas for improvement.
+The goal to identify key strengths of a department and area of potential improvement.
+
+
+|| Foreign Federal Police ||
+The F.B.I describes a nine step process for placing special agent in their agency.
+This method is affective in systematically  
+
+
+
+
